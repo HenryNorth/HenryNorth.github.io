@@ -1,1 +1,1 @@
-# leagueRotation
+# league-rotation
