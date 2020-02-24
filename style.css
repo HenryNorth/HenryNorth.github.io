@@ -50,7 +50,7 @@ body {
 * League Rotation Page
 */ 
 .leagueBackgroundImg {
-    background-image: url(./leagueRotation/background.jpg);
+    background-image: url(./background.jpg);
 }
 
 #btnListContainer {
@@ -64,6 +64,7 @@ body {
     padding: 4px;
     background-color: rgb(60,97,167,0.5);
     margin: 8px;
+    font-size: 0;
 }
 
 .championBtn {
@@ -74,6 +75,7 @@ body {
     font-size: 20px;
     color: white;
     cursor: pointer;
+    margin: 6px;
 }
 
 .championBtn:hover {
