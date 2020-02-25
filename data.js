@@ -195,7 +195,7 @@ const champions = [
     },
     {
       id: "Heimerdinger",
-      name: "Heimderdinger",
+      name: "Heimerdinger",
       dateLastOnRotation: "",
     },
     {
