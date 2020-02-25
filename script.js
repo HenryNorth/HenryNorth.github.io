@@ -50,7 +50,7 @@ formatDate = (date) => {
 
 const mapTest = champions.map(champion => (
 `<div id="${champion.name}" class="championBtn" onclick="selectChampion(\`${champion.id}\`)">
-  <img src="${mainIconUrl}/${champion.name}.png"/></img>
+  <img src="${mainIconUrl}/${champion.id}.png"/></img>
   <div>${champion.name}</div>
 </div>`
 ));
